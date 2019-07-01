@@ -10,9 +10,19 @@
     text-align: center;
   }
   
-  .avatar-pic {
+  .avatar {
 	border-radius: 50%;
+	width: 50;
+	height: 50;
   }
+  
+.title > * {
+	display: inline;
+}  
+
+.links {
+	padding-bottom: 10px;
+}
   
  .links > *{
 	display: inline;
