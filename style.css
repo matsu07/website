@@ -1,0 +1,19 @@
+@import url('https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+.footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: #efefef;
+    text-align: center;
+  }
+  
+  .avatar-pic {
+	border-radius: 50%;
+  }
+  
+ .links > *{
+	display: inline;
+  }
